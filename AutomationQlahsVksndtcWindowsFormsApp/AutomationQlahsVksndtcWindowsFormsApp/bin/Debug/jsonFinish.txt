@@ -1,0 +1,226 @@
+﻿{
+  "HoSoAnHinhSuID": 1066,
+  "MaSoVuAn": "19_190429_0923_1066_V",
+  "TenVuAn": "Trần Thị Thảo",
+  "NgayVuAn": "05/01/2019",
+  "LoaiToiPham": 2,
+  "TomTatSuKienPhamToi": "Ngày 05/01/2019 tại Vân canh, Hoài Đức, Hà Nội, Trần Thị Thảo có hành vi làm trung gian giới thiệu và dẫn dắt Trần Thị Liên có hành vi bán dâm với giá 500.000đ",
+  "ToiDanh": {
+    "DieuLuat": "328",
+    "KhoanLuat": "1",
+    "ToiDanhKhoanLuat": "Người nào làm trung gian dụ dỗ, dẫn dắt để người khác thực hiện việc mua dâm, bán dâm, thì bị phạt tù từ 06 tháng đến 03 năm",
+    "DiemLuat": "null",
+    "ToiDanhDiemLuat": "null",
+    "BoLuat": 2015,
+    "NoiDung": "Người nào làm trung gian dụ dỗ, dẫn dắt để người khác thực hiện việc mua dâm, bán dâm, thì bị phạt tù từ 06 tháng đến 03 năm"
+  },
+  "NoiXayRa": "%Vân Canh%%Hoài Đức%%Hà Nội%",
+  "QuyetDinhKhoiTo": {
+    "SoQuyetDinh": "28",
+    "NgayRaQuyetDinh": "07/01/2019",
+    "TenDonVi": "Hoài Đức"
+  },
+  "BiCanDauVu": "Trần Thị Thảo",
+  "DieuLuatKhoiToVuAn": [
+    {
+      "DieuLuat": "328",
+      "KhoanLuat": "1",
+      "ToiDanhKhoanLuat": "Người nào làm trung gian dụ dỗ, dẫn dắt để người khác thực hiện việc mua dâm, bán dâm, thì bị phạt tù từ 06 tháng đến 03 năm",
+      "DiemLuat": "null",
+      "ToiDanhDiemLuat": "null",
+      "BoLuat": 2015
+    }
+  ],
+  "ThuLyKhoiTo": {
+    "SoThuLy": 23,
+    "NgayThuLy": "07/01/2019",
+    "ThuTyTuNgay": "31/10/2019",
+    "ThuLyDenNgay": "31/10/2019",
+    "LoaiThuLy": "mới",
+    "GhiChu": null,
+    "LoaiAnDiem": true,
+    "CoLuatSuThamGia": null,
+    "GiaiDoanThuLy": 2,
+    "KiemSatVienDieuTraVien": [
+      {
+        "LaDieuTraVien": false,
+        "HoTen": "Phạm Thị Ngát",
+        "NgayPhanCong": "07/01/2019",
+        "NguoiKy": null,
+        "VaiTroKiemSat": null,
+        "SoQuyetDinh": "23",
+        "NgayKetThuc": "07/01/2019"
+      }
+    ],
+    "QuyetDinhVuAn": [
+      {
+        "SoQuyetDinh": "07",
+        "NgayRaQuyetDinh": "07/01/2019",
+        "TenCoQuan": "CQĐT",
+        "TenDonVi": "Hoài Đức",
+        "Tenloai": "Công văn xác định án điểm",
+        "HieuLucDenNgay": "31/10/2019",
+        "HieuLucTuNgay": "31/10/2019",
+        "ThoiHanThucTe": null,
+        "TenNguoiKy": null,
+        "TenChucVu": "null",
+        "NoiDung": null
+      }
+    ],
+    "KetLuanDieuTra": {
+      "SoKetLuanDieuTra": 29,
+      "NgayHieuLuc": "25/02/2019",
+      "NgayRaKetLuan": "25/02/2019",
+      "NoiDung": "Truy tố bị can Trần Thị Thảo tội Môi giới mại dâm theo K1Đ328",
+      "NguoiKy": null,
+      "ChucVu": null,
+      "YKienCuaVKS": null
+    },
+    "QuyetDinhBiCan": [
+      {
+        "HoTen": "Trần Thị Thảo",
+        "SoQuyetDinh": "48",
+        "NgayRaQuyetDinh": "11/01/2019",
+        "HieuLucTuNgay": "11/01/2019",
+        "HieuLucDenNgay": "31/10/2019",
+        "TenCoQuan": "Viện kiểm sát",
+        "TenDonVi": "Hoài Đức",
+        "Tenloai": "Quyết định phê chuẩn Quyết định khởi tố bị can",
+        "NoiDungLyDo": "null",
+        "TenNguoiKy": null,
+        "TenChucVu": null,
+        "NoiDung": null,
+        "ThoiHanThucTe": null
+      },
+      {
+        "HoTen": "Trần Thị Thảo",
+        "SoQuyetDinh": "30",
+        "NgayRaQuyetDinh": "11/01/2019",
+        "HieuLucTuNgay": "11/01/2019",
+        "HieuLucDenNgay": "31/10/2019",
+        "TenCoQuan": "CQĐT",
+        "TenDonVi": "Hoài Đức",
+        "Tenloai": "Lệnh cấm đi khỏi nơi cư trú",
+        "NoiDungLyDo": "null",
+        "TenNguoiKy": null,
+        "TenChucVu": null,
+        "NoiDung": null,
+        "ThoiHanThucTe": null
+      }
+    ]
+  },
+  "ThuLyTruyTo": {
+    "KiemSatVienDieuTraVien": [
+      {
+        "LaDieuTraVien": false,
+        "HoTen": "Phạm Thị Ngát",
+        "NgayPhanCong": "07/01/2019",
+        "NguoiKy": null,
+        "VaiTroKiemSat": null,
+        "SoQuyetDinh": "23",
+        "NgayKetThuc": "07/01/2019"
+      }
+    ],
+    "QuyetDinhVuAn": [
+      {
+        "SoQuyetDinh": "11",
+        "NgayRaQuyetDinh": "15/03/2019",
+        "TenCoQuan": "Viện kiểm sát",
+        "TenDonVi": "Hoài Đức",
+        "Tenloai": "Quyết định gia hạn thời hạn quyết định việc truy tố",
+        "HieuLucDenNgay": "28/03/2019",
+        "HieuLucTuNgay": "18/03/2019",
+        "ThoiHanThucTe": 10,
+        "TenNguoiKy": null,
+        "TenChucVu": "null",
+        "NoiDung": null
+      }
+    ],
+    "QuyetDinhBiCan": [
+      
+    ]
+  },
+  "BiCanHoSo": [
+    {
+      "QDKhoiToBiCan": {
+        "SoQuyetDinh": "57",
+        "NgayRaQuyetDinh": "11/01/2019",
+        "TenCoQuan": "Công an",
+        "TenDonVi": "Hoài Đức"
+      },
+      "ThongTinBiCan": {
+        "HoTen": "Trần Thị Thảo",
+        "NgaySinh": "01/01/1979",
+        "TenQuocTich": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "TenDanToc": "Kinh",
+        "SoCMT": null,
+        "NoiOHienTai": "null",
+        "NoiSinh": null,
+        "NoiCapCMT": null,
+        "TenNgheNghiep": "null",
+        "TenDangVien": "null",
+        "LaBiCanDauVu": true,
+        "TenKhac": null,
+        "GioiTinh": false,
+        "TenTonGiao": "Không",
+        "TenHocVan": "null",
+        "TenChucVuChinhQuyen": "null",
+        "SoTienAn": null,
+        "SoTienSu": null,
+        "LaCanBoCongNhanVienChuc": null,
+        "LaCoNguoiBaoChua": null,
+        "LaDoiTuongLangThang": null,
+        "LaHanhNgheTonGiao": null,
+        "LaHocSinhTruongChuyenNghiep": null,
+        "LaLuuManh": null,
+        "LaNgheNghiepKhongOnDinh": null,
+        "LaNghienHut": null,
+        "LaPhapNhan": false,
+        "LaTapTrungCaiTaoTuHinhSu": null,
+        "LaThuongBinhBoDoiPhucVien": null
+      },
+      "DieuLuatKhoiTo": [
+        {
+          "DieuLuat": "328",
+          "KhoanLuat": "1",
+          "ToiDanhKhoanLuat": null,
+          "DiemLuat": "null",
+          "ToiDanhDiemLuat": "null",
+          "BoLuat": 2015
+        }
+      ]
+    }
+  ],
+  "CaoTrang": {
+    "SoBanCaoTrang": 35,
+    "NgayHieuLuc": "27/03/2019",
+    "NgayVKSRaCaoTrang": "27/03/2019",
+    "Noidung": null,
+    "TenNguoiKy": null,
+    "ChucVu": null,
+    "YKienVKS": null,
+    "LaAnRutGon": null
+  },
+  "GiaoNhanHoSoKSDT": {
+    "LoaiGiaoNhanID": 5,
+    "NgayGiaoNhan": "25/02/2019",
+    "SoButLuc": "134",
+    "NguoiNhan": "Phạm Ngọc Hà",
+    "NguoiGiao": "Lê Quang Đức",
+    "DonViGiao": "Hoài Đức",
+    "CoQuanGiao": "CQĐT",
+    "DonViNhan": "Hoài Đức",
+    "CoQuanNhan": "Viện kiểm sát"
+  },
+  "GiaoNhanHoSoTT": {
+    "LoaiGiaoNhanID": 1,
+    "NgayGiaoNhan": "02/04/2019",
+    "SoButLuc": "145",
+    "NguoiNhan": "Nguyễn Minh Thu",
+    "NguoiGiao": "Phạm Hoàng Lan Phương",
+    "DonViGiao": "Hoài Đức",
+    "CoQuanGiao": "Viện kiểm sát",
+    "DonViNhan": "Hoài Đức",
+    "CoQuanNhan": "Tòa án"
+  }
+}
